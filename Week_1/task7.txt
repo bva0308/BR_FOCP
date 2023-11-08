@@ -1,0 +1,23 @@
+Source code: Source code is a human-readable set of instructions written in a programming language that serves as the foundation for creating software applications.
+
+Machine code: Machine code is the lowest-level programming language that consists of binary instructions directly executable by a computer's central processing unit (CPU).
+
+Interpreter: An interpreter is a program that translates and executes source code line by line, without the need for a separate compilation step, making it suitable for dynamic languages like Python.
+
+Compiler: A compiler is a software tool that translates the entire source code into machine code or an intermediate form in a single pass before execution, typically resulting in faster program execution and optimizations.
+
+2GL, 3GL, 4GL: These are different generations of programming languages. 2GL (Second Generation Language) refers to assembly languages, 3GL (Third Generation Language) includes languages like C, and 4GL (Fourth Generation Language) includes high-level languages designed for specific applications.
+
+Executable: An executable is a file containing machine code or bytecode that can be run directly by a computer's operating system to execute a program or application.
+
+Expressions: Expressions are combinations of values, variables, operators, and functions that evaluate to a single value, typically used to perform calculations or comparisons in programming.
+
+Operators and operands: Operators are symbols or keywords used in programming to perform operations on one or more operands (values or variables). For example, in the expression "5 + 3," the plus sign (+) is the operator, and "5" and "3" are the operands.
+
+Syntax Errors: Syntax errors are mistakes in the structure or grammar of source code that prevent it from being correctly parsed or compiled, leading to a compilation failure.
+
+Logical Errors: Logical errors are programming mistakes that do not cause syntax errors or crashes but result in incorrect program behavior, such as incorrect calculations or unexpected outcomes due to flawed logic in the code.
+
+
+
+
