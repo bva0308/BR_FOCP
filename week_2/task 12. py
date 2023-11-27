@@ -1,0 +1,6 @@
+surname = "yadav"
+tenth_letter = surname[5]
+
+print("Tenth letter is",tenth_letter)
+
+# IndexError: string index out of range
